@@ -1,0 +1,5 @@
+META-INF/spring-configuration-metadata.json
+com/btk/btkapiclientsdk/client/BtkApiClient.class
+com/btk/btkapiclientsdk/model/User.class
+com/btk/btkapiclientsdk/BtkapiClientConfig.class
+com/btk/btkapiclientsdk/utils/SignUtils.class
